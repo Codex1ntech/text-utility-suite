@@ -8,3 +8,8 @@ A collection of beginner-friendly Python tools to perform basic text processing 
 ## How to Use
 ```bash
 python tools/case_converter.py
+```
+
+## Upcoming Features
+- Word counter
+- Email validator
